@@ -1,7 +1,7 @@
 # Ex.07 Restaurant Website
 ## Date: 03/0/52025
 ## Name: vasanthan .N
-## Regno: 2122242Q40180
+## Regno: 212224240180
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
