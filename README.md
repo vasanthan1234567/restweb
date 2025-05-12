@@ -422,10 +422,11 @@ nav a:hover {
 ## OUTPUT:
 
 
-![Screenshot 2025-05-10 142327](https://github.com/user-attachments/assets/e4b0d036-6376-40d2-97b7-54297a7e6e36)
 
 
-![Screenshot 2025-05-10 142419](https://github.com/user-attachments/assets/0fb58bb0-db9d-490b-99cb-52650bbfa3d0)
+![Screenshot 2025-05-10 143104](https://github.com/user-attachments/assets/89609381-8c57-4f59-9100-d12b4144e095)
+
+
 
 
 
